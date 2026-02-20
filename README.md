@@ -1,0 +1,2 @@
+# Coca-Cola-Glowing-Product-Card-HTML-CSS-UI-Design
+🥤 Coca-Cola Glowing Product Card  This project is a simple and modern product card design created using HTML and CSS. It displays a Coca-Cola product with a clean layout, glowing effect, and attractive user interface.  The card includes:  Coca-Cola product image  Product title  Short description  “Buy Now” button  Responsive design structure  
